@@ -1,0 +1,10 @@
+{
+  "name": "current_time",
+  "version": "1.0.0",
+  "description": "Tick current time in console.log",
+  "main": "index.js",
+  "repository": "https://github.com/vitalykostak/current_time.git",
+  "author": "Vitaly Kostak <vitalykostak@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
